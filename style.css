@@ -1,0 +1,32 @@
+body{
+    background-color: #00DFA2;
+}
+
+.container{
+    width:70% ;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    color: #F6FA70;
+    font-size: 6rem;
+    text-shadow: 5px 0 black;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin-inline: 20px;
+}
+
+p{
+    margin: 20px;
+    color: #F6FA70;
+    font-size: 3rem;
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-shadow: 1px 0 black;
+}
