@@ -1,4 +1,4 @@
 # Dango-Dicer
 
-I am a Dango DIcre roller web application !
+I am a Dango Dice roller web application!
 Have fun dicing me !!
