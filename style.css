@@ -30,3 +30,12 @@ p{
     font-family: 'Ysabeau Infant', sans-serif;
     text-shadow: 1px 0 black;
 }
+
+footer{
+    margin-top: 5%;
+    color: orangered;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: bold;
+}
